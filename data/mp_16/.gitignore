@@ -1,0 +1,4 @@
+*.feather
+*.bz2
+*.csv
+!landmarks.csv

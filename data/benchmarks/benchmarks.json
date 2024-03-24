@@ -1,0 +1,26 @@
+{
+    "im2gps": {
+        "meta": "data/benchmarks/im2gps/im2gps_aug.csv",
+        "images": "data/benchmarks/im2gps/jpgs/"
+    },
+    "im2gps3k": {
+        "meta": "data/benchmarks/im2gps3k/im2gps3k_aug.csv",
+        "images": "data/benchmarks/im2gps3k/jpgs/"
+    },
+    "yfcc4k": {
+        "meta": "data/benchmarks/yfcc4k/yfcc4k_aug.csv",
+        "images": "data/benchmarks/yfcc4k/jpgs/"
+    },
+    "yfcc26k": {
+        "meta": "data/benchmarks/yfcc26k/yfcc26k_aug.csv",
+        "images": "data/benchmarks/yfcc26k/jpgs/"
+    },
+    "geoguessr": {
+        "meta": "data/benchmarks/geoguessr/geoguessr_aug.csv",
+        "images": "data/streetview_outputs_cropped/"
+    },
+    "gws15k": {
+        "meta": "data/benchmarks/gws15k/gws15k_aug_2.csv",
+        "images": "data/streetview_outputs_cropped/"
+    }
+}
