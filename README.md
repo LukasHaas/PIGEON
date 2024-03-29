@@ -1,3 +1,8 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pigeon-predicting-image-geolocations/photo-geolocation-estimation-on-gws15k)](https://paperswithcode.com/sota/photo-geolocation-estimation-on-gws15k?p=pigeon-predicting-image-geolocations)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pigeon-predicting-image-geolocations/photo-geolocation-estimation-on-im2gps3k)](https://paperswithcode.com/sota/photo-geolocation-estimation-on-im2gps3k?p=pigeon-predicting-image-geolocations)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pigeon-predicting-image-geolocations/photo-geolocation-estimation-on-yfcc26k)](https://paperswithcode.com/sota/photo-geolocation-estimation-on-yfcc26k?p=pigeon-predicting-image-geolocations)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pigeon-predicting-image-geolocations/photo-geolocation-estimation-on-yfcc4k)](https://paperswithcode.com/sota/photo-geolocation-estimation-on-yfcc4k?p=pigeon-predicting-image-geolocations)
+
 # PIGEON: Predicting Image Geolocations
 This repository contains the code for the paper *PIGEON: Predicting Image Geolocations*. The paper was authored by Lukas Haas, Michal Skreta, Silas Alberti, and Chelsea Finn at Stanford University.
 
