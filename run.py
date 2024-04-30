@@ -2,7 +2,7 @@ import os
 import torch
 import argparse
 import logging
-from multiprocess import set_start_method
+from multiprocessing import set_start_method
 from training import finetune_model, finetune_on_embeddings, pretrain
 from dataset_creation.pretrain import PretrainDataset, PretrainDatasetYFCC
 from dataset_creation.finetune import generate_finetune_dataset
